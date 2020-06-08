@@ -23,22 +23,22 @@ import os
 DEFAULT_LANG = 'ja'
 
 # account
-ADMIN_ACCOUNT = "admin@xxx.com"
-DOMAIN_ID = 0
+ADMIN_ACCOUNT = "kimura.houscrum@testcom"
+DOMAIN_ID = 10146689
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "jp1YFYQhUDtMZ"
+SERVER_CONSUMER_KEY = "vK2E5rQhAGpmnLmMgdOv"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
-SECRET_KEY_NAME = "private_201xxxxx164308.key"
+SERVER_ID = "999ff92fc2954c2aa8accb0d8d761f38"
+SECRET_KEY_NAME = "private_20200608171027.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://linworksfaq.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-18-232-143-90.compute-1.amazonaws.com"
+DB_NAME = "d387busmqjkd2v"
+DB_USER = "wloojffitasbjm"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "d5f9816a274321e5d82828558388604f9f976f290f1c468533a6a9e4e94cd9dd"
